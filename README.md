@@ -19,5 +19,5 @@ adb shell pm grant com.personal.nfcquicksettings android.permission.WRITE_SECURE
 ```
 To revert to basic mode:
 ```sh
-adb shell pm revoke com.your.package.name android.permission.WRITE_SECURE_SETTINGS
+adb shell pm revoke com.personal.nfcquicksettings android.permission.WRITE_SECURE_SETTINGS
 ```

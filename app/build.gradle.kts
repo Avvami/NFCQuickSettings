@@ -10,13 +10,13 @@ plugins {
 val localProperties: Properties = gradleLocalProperties(rootDir, providers)
 
 android {
-    namespace = "ru.ariadna.nfcquicksettings"
+    namespace = "com.personal.nfcquicksettings"
     compileSdk {
         version = release(36)
     }
 
     defaultConfig {
-        applicationId = "ru.ariadna.nfcquicksettings"
+        applicationId = "com.personal.nfcquicksettings"
         minSdk = 24
         targetSdk = 36
         versionCode = 1

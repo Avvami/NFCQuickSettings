@@ -1,4 +1,4 @@
-package ru.ariadna.nfcquicksettings
+package com.personal.nfcquicksettings
 
 import android.Manifest.permission.WRITE_SECURE_SETTINGS
 import android.app.PendingIntent
@@ -18,7 +18,7 @@ import android.service.quicksettings.Tile
 import android.service.quicksettings.TileService
 import android.util.Log
 import androidx.core.content.ContextCompat
-import ru.ariadna.nfcquicksettings.R.string
+import com.personal.nfcquicksettings.R.string
 
 private const val TAG = "NfcTileService"
 

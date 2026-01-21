@@ -1,4 +1,4 @@
-package ru.ariadna.nfcquicksettings
+package com.personal.nfcquicksettings
 
 import android.app.Activity
 import android.content.Intent

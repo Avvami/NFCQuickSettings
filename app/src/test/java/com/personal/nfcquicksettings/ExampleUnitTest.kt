@@ -1,4 +1,4 @@
-package ru.ariadna.nfcquicksettings
+package com.personal.nfcquicksettings
 
 import org.junit.Test
 
